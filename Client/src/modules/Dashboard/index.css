@@ -1,0 +1,46 @@
+.fit-v{
+    height: fit-content;
+}
+
+.fit-h{
+    width: fit-content;
+}
+
+.radius-border{
+    border-radius: 30px;
+}
+
+.hover :hover{
+    border: 1px;
+    border-radius: 48px;
+    background-color: grey;
+}
+
+.margin{
+    margin-left: 0;
+}
+
+.message:hover{
+    background-color: skyblue;
+}
+
+.call:hover{
+    box-shadow: 8px 6px 11px 2px black;
+    border-radius: 50px;
+}
+
+.avatar{
+    box-shadow: 8px 6px 11px 2px black;
+    border-radius: 50px;
+}
+
+.send:hover{
+    box-shadow: 8px 6px 11px 2px black;
+    border-radius: 50px;
+}
+
+.chat{
+    padding: 1.5vh;
+    box-shadow: 8px 6px 11px 2px black;
+    border-radius: 50px;
+}
